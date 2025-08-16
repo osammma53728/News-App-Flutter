@@ -12,17 +12,7 @@ This project was built to demonstrate modern Flutter development practices.
 - Uses **ListView with cards** for a smooth and responsive UI.
 - Clean project structure and easily extendable.
 
----
-
-## 📱 Screenshots
-(Add your app screenshots here once available, for example:)  
-
-| Home Screen | News Details |
-|-------------|--------------|
-| ![Home](screenshots/home.png) | ![Details](screenshots/details.png) |
-
----
-
+ 
 ## 🛠️ Tech Stack
 - **Flutter** 
 - **Dart** 
